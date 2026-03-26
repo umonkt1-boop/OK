@@ -1,0 +1,8 @@
+flask==2.3.3
+gunicorn==21.2.0
+discord.py
+aiohttp
+python-dotenv
+opencv-python>=4.5.0
+numpy>=1.19.0
+mss>=6.0.0
